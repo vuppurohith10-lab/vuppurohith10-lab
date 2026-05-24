@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
-██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║
-██████╔╝██║   ██║███████║██║   ██║   ███████║
-██╔══██╗██║   ██║██╔══██║██║   ██║   ██╔══██║
-██║  ██║╚██████╔╝██║  ██║██║   ██║   ██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-### `VUPPU`
+# 👾 Rohith Vuppu
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;QNX+RTOS+%7C+Raspberry+Pi+%7C+IoT;ECE+Undergrad+%40+GMRIT;Building+at+the+Hardware+Layer" alt="Typing SVG" />
 
@@ -110,13 +101,19 @@ Currently exploring: **HDL design with Verilog**, **memory architecture (SRAM/DR
 
 ```
 [✓] Diploma — ECE (Govt. Polytechnic, Amadalavalasa)
-[✓] QNX RTOS fundamentals
-[✓] Raspberry Pi & IoT projects
-[✓] Verilog + simulation toolchain (Icarus + GTKWave)
+[✓] QNX Realtime Programming Course (BlackBerry / QNX)
+[✓] QNX CTI setup & boot on Raspberry Pi 4
+[✓] GPIO LED Blinking — QNX + Raspberry Pi 4 (aarch64 cross-compilation)
+[✓] Client-Server IPC project — QNX MsgSend/MsgReceive + 7-segment display
+[✓] Traffic Sign Detection — OpenCV + ML + Python (custom dataset & model)
+[✓] Smart Traffic Sign Detection & Speed Control — YOLO + Raspberry Pi + L298 motor driver + OLED
+[✓] AWS Solutions Architecture (Job Simulation)
+[~] B.Tech ECE @ GMRIT (2024 → 2027, in progress)
+[~] Verilog + simulation toolchain (Icarus + GTKWave)
 [ ] FPGA implementation of memory modules
-[ ] IC design with Sky130 PDK (OpenLane)
 [ ] Physical reverse engineering of RAM/ROM chips
-[ ] VLSI & memory architecture research
+[ ] Deep-dive into SRAM / DRAM / Flash architecture
+[ ] Contributing to open-source embedded / hardware projects
 ```
 
 ---
